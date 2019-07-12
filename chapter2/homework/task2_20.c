@@ -1,4 +1,4 @@
-// Self-review exercises from Ch. 2: 2.18
+// Self-review exercises from Ch. 2: 2.20
 // (Converting from seconds to hours, minutes and seconds) Write a program that asks the
 //  user to enter the total time elapsed, in seconds, since an event and converts the time to hours,
 //  minutes and seconds.

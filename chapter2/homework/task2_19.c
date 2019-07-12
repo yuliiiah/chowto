@@ -1,4 +1,4 @@
-// Self-review exercises from Ch. 2: 2.18
+// Self-review exercises from Ch. 2: 2.19
 // (Arithmetic, Largest Value and Smallest Value) Write a program that inputs three different
 //  integers from the keyboard, then prints the sum, the average, the product, the smallest and the
 //  largest of these numbers. Use only the single-selection form of the if statement you learned in
