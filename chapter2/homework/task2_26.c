@@ -1,4 +1,4 @@
-// Self-review exercises from Ch. 2: 2.25
+// Self-review exercises from Ch. 2: 2.26
 // (Multiples) Write a program that reads in two integers
 //  and determines and prints whether the first is a multiple of the second.
 #include <stdio.h>
