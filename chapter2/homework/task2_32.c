@@ -1,4 +1,4 @@
-// Self-review exercises from Ch. 2: 2.31
+// Self-review exercises from Ch. 2: 2.32
 // (Body Mass Index Calculator) We introduced the body mass index (BMI) calculator
 //  in Exercise 1.12. The formula for calculating BMI is:
 //  BMI = weightInKilograms / heightInMeters × heightInMeters
