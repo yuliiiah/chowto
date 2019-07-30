@@ -1,4 +1,4 @@
-// Chapter 3: Self-review exercise 3.19
+// Chapter 3: Self-review exercise 3.20
 // (Salary Calculator) Develop a program that will determine the gross pay
 //  for each of several employees. The company pays “straight time” for the
 //  first 40 hours worked by each employee and pays “time-and-a-half” for
