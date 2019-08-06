@@ -78,3 +78,6 @@ examples/
 .idea/**/dynamic.xml
 .idea/**/uiDesigner.xml
 .idea/**/dbnavigator.xml
+
+# Exercises I haven't solved yet
+fail_*
