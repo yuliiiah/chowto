@@ -1,4 +1,4 @@
-// Chapter 3: Self-review exercise 3.39
+// Chapter 3: Self-review exercise 3.40
 // (Powers of 3 with an Infinite Loop) Write a program that keeps
 //  printing the powers of the integer 3, namely 3, 9, 27, 91, 273, and so
 //  on. Your loop should not terminate (i.e., you should create an infinite
