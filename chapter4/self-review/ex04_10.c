@@ -1,4 +1,4 @@
-// Chapter 4: Self-review exercise 4.9
+// Chapter 4: Self-review exercise 4.10
 // (Conversion Celsius to Fahrenheit) Write a program that converts
 //  temperatures from 30 ° C to 50 ° C to the Fahrenheit scale.
 //  The program should print a table displaying temperatures in the
