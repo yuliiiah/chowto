@@ -81,3 +81,7 @@ examples/
 
 # Exercises I haven't solved yet
 fail_*
+
+# executables
+fig
+ex
