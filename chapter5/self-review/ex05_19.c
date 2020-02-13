@@ -1,4 +1,4 @@
-// Chapter 5: Self-review exercise 5.18
+// Chapter 5: Self-review exercise 5.19
 /*
 	(Rectangle of Asterisks) Write a function that displays 
 	a solid rectangle of asterisks whose sides are specified 
